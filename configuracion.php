@@ -4,7 +4,7 @@ define("PATH", "Exportar-Excel");
 define("SERVERBD", "localhost");
 define("USERBD", "root");
 define("PASSBD", "");
-define("BD", "clase01");
+define("BD", "test");
 
 
 

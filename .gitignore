@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/public/material-dashboard/node_modules
+/public/material-dashboard-pro/node_modules
+/public/material-dashboard-pro/package-lock.json
+/storage/*.key
+/vendor
+.env
+.env_copia
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+sh.exe.stackdump
+/public/mix-manifest.json
